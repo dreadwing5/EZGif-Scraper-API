@@ -10,8 +10,6 @@ Thank you for your interest in contributing, If you feel like there's something 
 
 ## Help
 
-You can contact me on social media, Everything about me can be found [here](https://theabbie.github.io)
-
 ## Installation
 
 ### Requirements
